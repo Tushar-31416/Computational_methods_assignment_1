@@ -11,7 +11,6 @@ x_g = np.zeros(len(a)) # intial guess
 tol = 0.01
 w = 1.25
 
-#print(1+a[1][1])
 
 
 #******************L D U*******************
